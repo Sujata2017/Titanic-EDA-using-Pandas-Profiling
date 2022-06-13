@@ -15,4 +15,4 @@
  
  
  The dataset can be downloaded from here: https://www.kaggle.com/competitions/titanic/data
- 
+ Notebook link in Kaggle - https://www.kaggle.com/code/sujataroy/titanic-eda-using-pandas-profiling
